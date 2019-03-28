@@ -1,4 +1,4 @@
-package com.example.subwiki;
+package com.beomsa.subwiki;
 
 import android.os.Bundle;
 

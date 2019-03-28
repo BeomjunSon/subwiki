@@ -1,4 +1,4 @@
-package com.example.subwiki;
+package com.beomsa.subwiki;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +11,6 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
-        finish();
+        //finish();
     }
 }
