@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">subwiki</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">홈</string>
+    <string name="title_borads">게시판</string>
+    <string name="title_routemap">노선도</string>
+    <string name="title_settings">설정</string>
+    <string name="text_find_station">역을 검색하여 정보를 찾아보세요.</string>
+    <string name="background_text">Backgrounds</string>
 </resources>
